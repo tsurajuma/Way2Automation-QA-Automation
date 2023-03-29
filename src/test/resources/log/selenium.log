@@ -1,0 +1,203 @@
+11:31:40,794 DEBUG devpinoyLogger:62 - STARTED: Application SetUp
+11:31:40,801 DEBUG devpinoyLogger:74 - LOADED: Config Properties File !!!
+11:31:40,823 DEBUG devpinoyLogger:89 - LOADED: OR Properties File !!!
+11:32:20,217 DEBUG devpinoyLogger:100 - INITIALIZED: Firefox Driver !!!
+11:32:27,530 DEBUG devpinoyLogger:119 - NAVIGATED: Browser to https://www.way2automation.com/angularjs-protractor/banking/#/login
+11:32:27,586 DEBUG devpinoyLogger:123 - MAXIMIZED: Browser Window !!!
+11:32:28,601 DEBUG devpinoyLogger:89 - STARTED: bankManagerLoginTest !!!
+11:32:28,608 DEBUG devpinoyLogger:21 - INSIDE: Bank Manager Login Test !!!
+11:32:29,854 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: bank_manager_login_btn_css] !!!
+11:32:29,967 DEBUG devpinoyLogger:160 - LOCATED: [Web Element: add_customer_btn_css] !!!
+11:32:30,277 DEBUG devpinoyLogger:30 - EXECUTED: Bank Manager Login Test !!!
+11:32:30,278 DEBUG devpinoyLogger:97 - SUCCESS: bankManagerLoginTest !!!
+11:32:30,352 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:32:30,379 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:32:30,385 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:32:30,387 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:32:30,389 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:32:31,645 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: firstName] [Value: Sakthi Eswar] !!! 
+11:32:31,647 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: lastName] [Value: S] !!! 
+11:32:31,650 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+11:32:31,652 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+11:32:31,652 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+11:32:31,653 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: firstName] [Value: Nitish] !!! 
+11:32:31,654 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: lastName] [Value: S] !!! 
+11:32:31,655 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+11:32:31,656 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+11:32:31,656 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+11:32:31,659 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: firstName] [Value: Suraj] !!! 
+11:32:31,660 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: lastName] [Value: T] !!! 
+11:32:31,661 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+11:32:31,664 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+11:32:31,665 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+11:32:31,668 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: firstName] [Value: Umamaheswari] !!! 
+11:32:31,669 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: lastName] [Value: G] !!! 
+11:32:31,674 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+11:32:31,677 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+11:32:31,679 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+11:32:31,682 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: firstName] [Value: Venu] !!! 
+11:32:31,683 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: lastName] [Value: S] !!! 
+11:32:31,684 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+11:32:31,685 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+11:32:31,686 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: NO] !!! 
+11:32:31,707 DEBUG devpinoyLogger:89 - STARTED: addCustomerTest !!!
+11:32:31,746 DEBUG devpinoyLogger:34 - INSIDE: Add Customer Test !!!
+11:32:32,062 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: add_customer_btn_css] !!!
+11:32:33,731 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : first_name_txt_css] [ENTERED VALUE: Sakthi Eswar] !!!
+11:32:34,762 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : last_name_txt_xpath] [ENTERED VALUE: S] !!!
+11:32:34,890 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : post_code_txt_css] [ENTERED VALUE: ABC123] !!!
+11:32:35,545 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: add_customer_submit_btn_css] !!!
+11:32:37,547 DEBUG devpinoyLogger:307 - WAITING: Alert to PopUp !!!
+11:32:37,689 DEBUG devpinoyLogger:311 - ACCEPTED: Alert !!!
+11:32:37,690 DEBUG devpinoyLogger:50 - EXECUTED: Add Customer Test !!!
+11:32:39,704 DEBUG devpinoyLogger:97 - SUCCESS: addCustomerTest !!!
+11:32:39,705 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:32:39,706 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:32:39,707 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:32:39,707 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:32:39,708 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:32:39,897 DEBUG devpinoyLogger:89 - STARTED: addCustomerTest !!!
+11:32:39,905 DEBUG devpinoyLogger:34 - INSIDE: Add Customer Test !!!
+11:32:40,157 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: add_customer_btn_css] !!!
+11:32:40,240 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : first_name_txt_css] [ENTERED VALUE: Nitish] !!!
+11:32:40,326 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : last_name_txt_xpath] [ENTERED VALUE: S] !!!
+11:32:40,422 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : post_code_txt_css] [ENTERED VALUE: ABC123] !!!
+11:32:40,577 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: add_customer_submit_btn_css] !!!
+11:32:42,580 DEBUG devpinoyLogger:307 - WAITING: Alert to PopUp !!!
+11:32:42,608 DEBUG devpinoyLogger:311 - ACCEPTED: Alert !!!
+11:32:42,609 DEBUG devpinoyLogger:50 - EXECUTED: Add Customer Test !!!
+11:32:44,612 DEBUG devpinoyLogger:97 - SUCCESS: addCustomerTest !!!
+11:32:44,613 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:32:44,614 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:32:44,615 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:32:44,617 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:32:44,618 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:32:44,722 DEBUG devpinoyLogger:89 - STARTED: addCustomerTest !!!
+11:32:44,723 DEBUG devpinoyLogger:34 - INSIDE: Add Customer Test !!!
+11:32:44,978 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: add_customer_btn_css] !!!
+11:32:45,041 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : first_name_txt_css] [ENTERED VALUE: Suraj] !!!
+11:32:45,122 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : last_name_txt_xpath] [ENTERED VALUE: T] !!!
+11:32:45,233 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : post_code_txt_css] [ENTERED VALUE: ABC123] !!!
+11:32:45,448 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: add_customer_submit_btn_css] !!!
+11:32:47,450 DEBUG devpinoyLogger:307 - WAITING: Alert to PopUp !!!
+11:32:47,479 DEBUG devpinoyLogger:311 - ACCEPTED: Alert !!!
+11:32:47,479 DEBUG devpinoyLogger:50 - EXECUTED: Add Customer Test !!!
+11:32:49,480 DEBUG devpinoyLogger:97 - SUCCESS: addCustomerTest !!!
+11:32:49,481 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:32:49,482 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:32:49,482 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:32:49,483 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:32:49,484 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:32:49,627 DEBUG devpinoyLogger:89 - STARTED: addCustomerTest !!!
+11:32:49,629 DEBUG devpinoyLogger:34 - INSIDE: Add Customer Test !!!
+11:32:50,417 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: add_customer_btn_css] !!!
+11:32:51,091 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : first_name_txt_css] [ENTERED VALUE: Umamaheswari] !!!
+11:32:51,417 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : last_name_txt_xpath] [ENTERED VALUE: G] !!!
+11:32:51,750 DEBUG devpinoyLogger:227 - TYPED: in [Web Element : post_code_txt_css] [ENTERED VALUE: ABC123] !!!
+11:32:52,529 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: add_customer_submit_btn_css] !!!
+11:32:54,542 DEBUG devpinoyLogger:307 - WAITING: Alert to PopUp !!!
+11:32:54,708 DEBUG devpinoyLogger:311 - ACCEPTED: Alert !!!
+11:32:54,709 DEBUG devpinoyLogger:50 - EXECUTED: Add Customer Test !!!
+11:32:56,711 DEBUG devpinoyLogger:97 - SUCCESS: addCustomerTest !!!
+11:32:56,712 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:32:56,712 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:32:56,713 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:32:56,715 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:32:56,716 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:32:56,817 DEBUG devpinoyLogger:89 - STARTED: addCustomerTest !!!
+11:32:56,818 DEBUG devpinoyLogger:29 - SKIPPED DATA SET: for Add Customer Test !!!
+11:32:56,824 DEBUG devpinoyLogger:79 - SKIPPED: addCustomerTest !!!
+11:32:56,825 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:32:56,826 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:32:56,826 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:32:56,827 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:32:56,827 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:32:56,951 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: customer] [Value: Sakthi Eswar S] !!! 
+11:32:56,952 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+11:32:56,957 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+11:32:56,960 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+11:32:56,960 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: customer] [Value: Nitish S] !!! 
+11:32:56,962 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+11:32:56,963 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+11:32:56,964 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+11:32:56,966 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: customer] [Value: Suraj T] !!! 
+11:32:56,976 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+11:32:56,977 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+11:32:56,978 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+11:32:56,979 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: customer] [Value: Umamaheswari G] !!! 
+11:32:56,979 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+11:32:56,987 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+11:32:56,988 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+11:32:56,988 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: customer] [Value: Venu S] !!! 
+11:32:56,989 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+11:32:56,990 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+11:32:56,991 DEBUG devpinoyLogger:31 - FETCHED DATA SET: [Key: runMode] [Value: NO] !!! 
+11:32:56,993 DEBUG devpinoyLogger:89 - STARTED: openAccountTest !!!
+11:32:56,994 DEBUG devpinoyLogger:37 - INSIDE: Open Account Test !!!
+11:32:57,600 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: open_account_btn_css] !!!
+11:32:58,636 DEBUG devpinoyLogger:265 - SELECTED: [Dropdown: customer_select_css VALUE: Sakthi Eswar S] !!!
+11:32:59,330 DEBUG devpinoyLogger:265 - SELECTED: [Dropdown: currency_select_css VALUE: Rupee] !!!
+11:32:59,461 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: process_submit_btn_css] !!!
+11:33:01,475 DEBUG devpinoyLogger:307 - WAITING: Alert to PopUp !!!
+11:33:01,508 DEBUG devpinoyLogger:311 - ACCEPTED: Alert !!!
+11:33:01,508 DEBUG devpinoyLogger:49 - EXECUTED: Open Account Test !!!
+11:33:01,509 DEBUG devpinoyLogger:97 - SUCCESS: openAccountTest !!!
+11:33:01,510 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:33:01,512 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:33:01,513 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:33:01,513 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:33:01,514 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:33:01,614 DEBUG devpinoyLogger:89 - STARTED: openAccountTest !!!
+11:33:01,615 DEBUG devpinoyLogger:37 - INSIDE: Open Account Test !!!
+11:33:01,895 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: open_account_btn_css] !!!
+11:33:02,174 DEBUG devpinoyLogger:265 - SELECTED: [Dropdown: customer_select_css VALUE: Nitish S] !!!
+11:33:02,438 DEBUG devpinoyLogger:265 - SELECTED: [Dropdown: currency_select_css VALUE: Rupee] !!!
+11:33:02,554 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: process_submit_btn_css] !!!
+11:33:04,562 DEBUG devpinoyLogger:307 - WAITING: Alert to PopUp !!!
+11:33:04,588 DEBUG devpinoyLogger:311 - ACCEPTED: Alert !!!
+11:33:04,588 DEBUG devpinoyLogger:49 - EXECUTED: Open Account Test !!!
+11:33:04,589 DEBUG devpinoyLogger:97 - SUCCESS: openAccountTest !!!
+11:33:04,590 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:33:04,593 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:33:04,594 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:33:04,594 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:33:04,595 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:33:04,679 DEBUG devpinoyLogger:89 - STARTED: openAccountTest !!!
+11:33:04,680 DEBUG devpinoyLogger:37 - INSIDE: Open Account Test !!!
+11:33:04,919 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: open_account_btn_css] !!!
+11:33:05,183 DEBUG devpinoyLogger:265 - SELECTED: [Dropdown: customer_select_css VALUE: Suraj T] !!!
+11:33:05,450 DEBUG devpinoyLogger:265 - SELECTED: [Dropdown: currency_select_css VALUE: Rupee] !!!
+11:33:05,563 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: process_submit_btn_css] !!!
+11:33:07,571 DEBUG devpinoyLogger:307 - WAITING: Alert to PopUp !!!
+11:33:07,613 DEBUG devpinoyLogger:311 - ACCEPTED: Alert !!!
+11:33:07,613 DEBUG devpinoyLogger:49 - EXECUTED: Open Account Test !!!
+11:33:07,614 DEBUG devpinoyLogger:97 - SUCCESS: openAccountTest !!!
+11:33:07,615 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:33:07,615 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:33:07,616 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:33:07,617 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:33:07,618 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:33:07,680 DEBUG devpinoyLogger:89 - STARTED: openAccountTest !!!
+11:33:07,681 DEBUG devpinoyLogger:37 - INSIDE: Open Account Test !!!
+11:33:07,931 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: open_account_btn_css] !!!
+11:33:08,225 DEBUG devpinoyLogger:265 - SELECTED: [Dropdown: customer_select_css VALUE: Umamaheswari G] !!!
+11:33:08,504 DEBUG devpinoyLogger:265 - SELECTED: [Dropdown: currency_select_css VALUE: Rupee] !!!
+11:33:08,635 DEBUG devpinoyLogger:195 - CLICKED: [Web Element: process_submit_btn_css] !!!
+11:33:10,648 DEBUG devpinoyLogger:307 - WAITING: Alert to PopUp !!!
+11:33:10,672 DEBUG devpinoyLogger:311 - ACCEPTED: Alert !!!
+11:33:10,673 DEBUG devpinoyLogger:49 - EXECUTED: Open Account Test !!!
+11:33:10,673 DEBUG devpinoyLogger:97 - SUCCESS: openAccountTest !!!
+11:33:10,674 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:33:10,674 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:33:10,675 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:33:10,676 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:33:10,676 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:33:10,751 DEBUG devpinoyLogger:89 - STARTED: openAccountTest !!!
+11:33:10,752 DEBUG devpinoyLogger:32 - SKIPPED DATA SET: for Open Account Test !!!
+11:33:10,753 DEBUG devpinoyLogger:79 - SKIPPED: openAccountTest !!!
+11:33:10,755 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:33:10,755 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:33:10,756 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:33:10,757 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:33:10,757 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/umasuraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:33:13,784 DEBUG devpinoyLogger:345 - COMPLETED: Test Execution !!!

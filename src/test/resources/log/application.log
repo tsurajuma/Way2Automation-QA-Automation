@@ -1,0 +1,148 @@
+06/03/2023 11:31:40 devpinoyLogger STARTED: Application SetUp
+06/03/2023 11:31:40 devpinoyLogger LOADED: Config Properties File !!!
+06/03/2023 11:31:40 devpinoyLogger LOADED: OR Properties File !!!
+06/03/2023 11:32:20 devpinoyLogger INITIALIZED: Firefox Driver !!!
+06/03/2023 11:32:27 devpinoyLogger NAVIGATED: Browser to https://www.way2automation.com/angularjs-protractor/banking/#/login
+06/03/2023 11:32:27 devpinoyLogger MAXIMIZED: Browser Window !!!
+06/03/2023 11:32:28 devpinoyLogger STARTED: bankManagerLoginTest !!!
+06/03/2023 11:32:28 devpinoyLogger INSIDE: Bank Manager Login Test !!!
+06/03/2023 11:32:29 devpinoyLogger CLICKED: [Web Element: bank_manager_login_btn_css] !!!
+06/03/2023 11:32:29 devpinoyLogger LOCATED: [Web Element: add_customer_btn_css] !!!
+06/03/2023 11:32:30 devpinoyLogger EXECUTED: Bank Manager Login Test !!!
+06/03/2023 11:32:30 devpinoyLogger SUCCESS: bankManagerLoginTest !!!
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: firstName] [Value: Sakthi Eswar] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: lastName] [Value: S] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: firstName] [Value: Nitish] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: lastName] [Value: S] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: firstName] [Value: Suraj] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: lastName] [Value: T] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: firstName] [Value: Umamaheswari] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: lastName] [Value: G] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: firstName] [Value: Venu] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: lastName] [Value: S] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: postCode] [Value: ABC123] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Customer added successfully ] !!! 
+06/03/2023 11:32:31 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: NO] !!! 
+06/03/2023 11:32:31 devpinoyLogger STARTED: addCustomerTest !!!
+06/03/2023 11:32:31 devpinoyLogger INSIDE: Add Customer Test !!!
+06/03/2023 11:32:32 devpinoyLogger CLICKED: [Web Element: add_customer_btn_css] !!!
+06/03/2023 11:32:33 devpinoyLogger TYPED: in [Web Element : first_name_txt_css] [ENTERED VALUE: Sakthi Eswar] !!!
+06/03/2023 11:32:34 devpinoyLogger TYPED: in [Web Element : last_name_txt_xpath] [ENTERED VALUE: S] !!!
+06/03/2023 11:32:34 devpinoyLogger TYPED: in [Web Element : post_code_txt_css] [ENTERED VALUE: ABC123] !!!
+06/03/2023 11:32:35 devpinoyLogger CLICKED: [Web Element: add_customer_submit_btn_css] !!!
+06/03/2023 11:32:37 devpinoyLogger WAITING: Alert to PopUp !!!
+06/03/2023 11:32:37 devpinoyLogger ACCEPTED: Alert !!!
+06/03/2023 11:32:37 devpinoyLogger EXECUTED: Add Customer Test !!!
+06/03/2023 11:32:39 devpinoyLogger SUCCESS: addCustomerTest !!!
+06/03/2023 11:32:39 devpinoyLogger STARTED: addCustomerTest !!!
+06/03/2023 11:32:39 devpinoyLogger INSIDE: Add Customer Test !!!
+06/03/2023 11:32:40 devpinoyLogger CLICKED: [Web Element: add_customer_btn_css] !!!
+06/03/2023 11:32:40 devpinoyLogger TYPED: in [Web Element : first_name_txt_css] [ENTERED VALUE: Nitish] !!!
+06/03/2023 11:32:40 devpinoyLogger TYPED: in [Web Element : last_name_txt_xpath] [ENTERED VALUE: S] !!!
+06/03/2023 11:32:40 devpinoyLogger TYPED: in [Web Element : post_code_txt_css] [ENTERED VALUE: ABC123] !!!
+06/03/2023 11:32:40 devpinoyLogger CLICKED: [Web Element: add_customer_submit_btn_css] !!!
+06/03/2023 11:32:42 devpinoyLogger WAITING: Alert to PopUp !!!
+06/03/2023 11:32:42 devpinoyLogger ACCEPTED: Alert !!!
+06/03/2023 11:32:42 devpinoyLogger EXECUTED: Add Customer Test !!!
+06/03/2023 11:32:44 devpinoyLogger SUCCESS: addCustomerTest !!!
+06/03/2023 11:32:44 devpinoyLogger STARTED: addCustomerTest !!!
+06/03/2023 11:32:44 devpinoyLogger INSIDE: Add Customer Test !!!
+06/03/2023 11:32:44 devpinoyLogger CLICKED: [Web Element: add_customer_btn_css] !!!
+06/03/2023 11:32:45 devpinoyLogger TYPED: in [Web Element : first_name_txt_css] [ENTERED VALUE: Suraj] !!!
+06/03/2023 11:32:45 devpinoyLogger TYPED: in [Web Element : last_name_txt_xpath] [ENTERED VALUE: T] !!!
+06/03/2023 11:32:45 devpinoyLogger TYPED: in [Web Element : post_code_txt_css] [ENTERED VALUE: ABC123] !!!
+06/03/2023 11:32:45 devpinoyLogger CLICKED: [Web Element: add_customer_submit_btn_css] !!!
+06/03/2023 11:32:47 devpinoyLogger WAITING: Alert to PopUp !!!
+06/03/2023 11:32:47 devpinoyLogger ACCEPTED: Alert !!!
+06/03/2023 11:32:47 devpinoyLogger EXECUTED: Add Customer Test !!!
+06/03/2023 11:32:49 devpinoyLogger SUCCESS: addCustomerTest !!!
+06/03/2023 11:32:49 devpinoyLogger STARTED: addCustomerTest !!!
+06/03/2023 11:32:49 devpinoyLogger INSIDE: Add Customer Test !!!
+06/03/2023 11:32:50 devpinoyLogger CLICKED: [Web Element: add_customer_btn_css] !!!
+06/03/2023 11:32:51 devpinoyLogger TYPED: in [Web Element : first_name_txt_css] [ENTERED VALUE: Umamaheswari] !!!
+06/03/2023 11:32:51 devpinoyLogger TYPED: in [Web Element : last_name_txt_xpath] [ENTERED VALUE: G] !!!
+06/03/2023 11:32:51 devpinoyLogger TYPED: in [Web Element : post_code_txt_css] [ENTERED VALUE: ABC123] !!!
+06/03/2023 11:32:52 devpinoyLogger CLICKED: [Web Element: add_customer_submit_btn_css] !!!
+06/03/2023 11:32:54 devpinoyLogger WAITING: Alert to PopUp !!!
+06/03/2023 11:32:54 devpinoyLogger ACCEPTED: Alert !!!
+06/03/2023 11:32:54 devpinoyLogger EXECUTED: Add Customer Test !!!
+06/03/2023 11:32:56 devpinoyLogger SUCCESS: addCustomerTest !!!
+06/03/2023 11:32:56 devpinoyLogger STARTED: addCustomerTest !!!
+06/03/2023 11:32:56 devpinoyLogger SKIPPED DATA SET: for Add Customer Test !!!
+06/03/2023 11:32:56 devpinoyLogger SKIPPED: addCustomerTest !!!
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: customer] [Value: Sakthi Eswar S] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: customer] [Value: Nitish S] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: customer] [Value: Suraj T] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: customer] [Value: Umamaheswari G] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: YES] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: customer] [Value: Venu S] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: currency] [Value: Rupee] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: alertText] [Value: Account created successfully] !!! 
+06/03/2023 11:32:56 devpinoyLogger FETCHED DATA SET: [Key: runMode] [Value: NO] !!! 
+06/03/2023 11:32:56 devpinoyLogger STARTED: openAccountTest !!!
+06/03/2023 11:32:56 devpinoyLogger INSIDE: Open Account Test !!!
+06/03/2023 11:32:57 devpinoyLogger CLICKED: [Web Element: open_account_btn_css] !!!
+06/03/2023 11:32:58 devpinoyLogger SELECTED: [Dropdown: customer_select_css VALUE: Sakthi Eswar S] !!!
+06/03/2023 11:32:59 devpinoyLogger SELECTED: [Dropdown: currency_select_css VALUE: Rupee] !!!
+06/03/2023 11:32:59 devpinoyLogger CLICKED: [Web Element: process_submit_btn_css] !!!
+06/03/2023 11:33:01 devpinoyLogger WAITING: Alert to PopUp !!!
+06/03/2023 11:33:01 devpinoyLogger ACCEPTED: Alert !!!
+06/03/2023 11:33:01 devpinoyLogger EXECUTED: Open Account Test !!!
+06/03/2023 11:33:01 devpinoyLogger SUCCESS: openAccountTest !!!
+06/03/2023 11:33:01 devpinoyLogger STARTED: openAccountTest !!!
+06/03/2023 11:33:01 devpinoyLogger INSIDE: Open Account Test !!!
+06/03/2023 11:33:01 devpinoyLogger CLICKED: [Web Element: open_account_btn_css] !!!
+06/03/2023 11:33:02 devpinoyLogger SELECTED: [Dropdown: customer_select_css VALUE: Nitish S] !!!
+06/03/2023 11:33:02 devpinoyLogger SELECTED: [Dropdown: currency_select_css VALUE: Rupee] !!!
+06/03/2023 11:33:02 devpinoyLogger CLICKED: [Web Element: process_submit_btn_css] !!!
+06/03/2023 11:33:04 devpinoyLogger WAITING: Alert to PopUp !!!
+06/03/2023 11:33:04 devpinoyLogger ACCEPTED: Alert !!!
+06/03/2023 11:33:04 devpinoyLogger EXECUTED: Open Account Test !!!
+06/03/2023 11:33:04 devpinoyLogger SUCCESS: openAccountTest !!!
+06/03/2023 11:33:04 devpinoyLogger STARTED: openAccountTest !!!
+06/03/2023 11:33:04 devpinoyLogger INSIDE: Open Account Test !!!
+06/03/2023 11:33:04 devpinoyLogger CLICKED: [Web Element: open_account_btn_css] !!!
+06/03/2023 11:33:05 devpinoyLogger SELECTED: [Dropdown: customer_select_css VALUE: Suraj T] !!!
+06/03/2023 11:33:05 devpinoyLogger SELECTED: [Dropdown: currency_select_css VALUE: Rupee] !!!
+06/03/2023 11:33:05 devpinoyLogger CLICKED: [Web Element: process_submit_btn_css] !!!
+06/03/2023 11:33:07 devpinoyLogger WAITING: Alert to PopUp !!!
+06/03/2023 11:33:07 devpinoyLogger ACCEPTED: Alert !!!
+06/03/2023 11:33:07 devpinoyLogger EXECUTED: Open Account Test !!!
+06/03/2023 11:33:07 devpinoyLogger SUCCESS: openAccountTest !!!
+06/03/2023 11:33:07 devpinoyLogger STARTED: openAccountTest !!!
+06/03/2023 11:33:07 devpinoyLogger INSIDE: Open Account Test !!!
+06/03/2023 11:33:07 devpinoyLogger CLICKED: [Web Element: open_account_btn_css] !!!
+06/03/2023 11:33:08 devpinoyLogger SELECTED: [Dropdown: customer_select_css VALUE: Umamaheswari G] !!!
+06/03/2023 11:33:08 devpinoyLogger SELECTED: [Dropdown: currency_select_css VALUE: Rupee] !!!
+06/03/2023 11:33:08 devpinoyLogger CLICKED: [Web Element: process_submit_btn_css] !!!
+06/03/2023 11:33:10 devpinoyLogger WAITING: Alert to PopUp !!!
+06/03/2023 11:33:10 devpinoyLogger ACCEPTED: Alert !!!
+06/03/2023 11:33:10 devpinoyLogger EXECUTED: Open Account Test !!!
+06/03/2023 11:33:10 devpinoyLogger SUCCESS: openAccountTest !!!
+06/03/2023 11:33:10 devpinoyLogger STARTED: openAccountTest !!!
+06/03/2023 11:33:10 devpinoyLogger SKIPPED DATA SET: for Open Account Test !!!
+06/03/2023 11:33:10 devpinoyLogger SKIPPED: openAccountTest !!!
+06/03/2023 11:33:13 devpinoyLogger COMPLETED: Test Execution !!!
